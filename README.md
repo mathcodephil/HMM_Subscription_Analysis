@@ -4,3 +4,5 @@ Hidden Markov Model to predict Subscription Renew.
 Синтетические данные с 5-ю продуктами, 4-мя длительностями подписки, 956-ю клиентами, историей подписок и использования за 728 дней.
 The synthetic dataset with 5 products, 4 durations of subscription, 956 clients, subscription and use time history for 728 days.
 
+Для этих данных предложен способ предсказать "продление / отказ" для подписок.
+For the given data, a method for predicting the "renewal/termination" of subscriptions is proposed.
